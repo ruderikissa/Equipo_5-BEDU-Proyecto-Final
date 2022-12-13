@@ -5,7 +5,7 @@
 
 -----------------------------------------
 
-# Data set:
+# Data set
 
 * [Negative reviews 1](https://raw.githubusercontent.com/ruderikissa/BEDU/main/neg_rev1)
 * [Negative reviews 2](https://raw.githubusercontent.com/ruderikissa/BEDU/main/neg_rev2)
@@ -13,6 +13,11 @@
 * [Positive reviews 2](https://raw.githubusercontent.com/ruderikissa/BEDU/main/pos_rev2)
 
 
-# Notebook:
+# Notebook
 
 * [Notebook](https://github.com/ruderikissa/Equipo_5-BEDU-Proyecto-Final/blob/4b44c02d2b43fa012cec2ad1c890c78ddcdf4fa7/Proyecto_equipo_5.ipynb)
+
+
+# Presentación
+
+* [Presentación](https://github.com/ruderikissa/Equipo_5-BEDU-Proyecto-Final/blob/a873c3df3df54cffec5cf7d6195ec8f3afa1e49c/Proyecto.pdf)
